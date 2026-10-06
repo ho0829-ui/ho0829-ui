@@ -1,106 +1,10 @@
-<table>
-<tr>
-<td width="1000" align="center">
-<br>
-<h1>JAEHO CHOI</h1>
-<b>Building reliable AI systems,<br>one step at a time.</b>
-<br><br>
-<code>AI Systems</code> · <code>Cloud</code> · <code>Architecture</code>
-<br><br>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/header.svg" alt="JAEHO - Building reliable AI systems, one step at a time." width="100%">
+</p>
 
-<table>
-<tr>
-<td width="500" valign="top">
-
-**CURRENT**
-
-> AI systems fundamentals<br>
-> CS / Network<br>
-> Building projects
-
-</td>
-<td width="500" valign="top">
-
-**PATH**
-
-Foundation<br>
-↓ AI Application<br>
-↓ AI Systems<br>
-↓ Cloud Infrastructure<br>
-↓ **Architecture**
-
-</td>
-</tr>
-</table>
-
-### STATUS
-
-<table>
-<tr>
-<th width="333" align="left">Foundation</th>
-<th width="333" align="left">AI Systems</th>
-<th width="333" align="left">Infrastructure</th>
-</tr>
-<tr>
-<td valign="top">
-
-🔵 CS<br>
-🔵 Network<br>
-🟢 Linux
-
-</td>
-<td valign="top">
-
-🔵 LLM<br>
-⚪ Agent<br>
-⚪ Guardrails<br>
-⚪ Evals
-
-</td>
-<td valign="top">
-
-🔵 Docker<br>
-⚪ AWS<br>
-⚫ Kubernetes
-
-</td>
-</tr>
-</table>
-
-<sub>🟢 Done · 🔵 Building · ⚪ Next · ⚫ Later</sub>
-
-<details>
-<summary><b>ROADMAP</b> — 전체 로드맵 펼치기</summary>
-
-```text
-2026
-│
-├── Foundation
-│   ├── CS
-│   ├── Network
-│   └── Linux
-│
-├── AI Application
-│   ├── LLM API
-│   ├── RAG
-│   └── Tool Calling
-│
-├── AI Systems
-│   ├── Agent
-│   ├── Harness
-│   ├── Guardrails
-│   └── Evals
-│
-└── Infrastructure
-    ├── Docker
-    ├── AWS
-    └── Kubernetes
-```
-
-</details>
+<p align="center">
+  <img src="./assets/board.svg" alt="DONE → NOW → NEXT → LATER" width="100%">
+</p>
 
 ### PROJECTS
 
@@ -142,26 +46,34 @@ Foundation<br>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="500" valign="top">
+<details>
+<summary><b>ROADMAP</b> — 전체 로드맵 펼치기</summary>
 
-**MILESTONES · 2026**
+```text
+2026
+│
+├── Foundation
+│   ├── CS
+│   ├── Network
+│   └── Linux
+│
+├── AI Application
+│   ├── LLM API
+│   ├── RAG
+│   └── Tool Calling
+│
+├── AI Systems
+│   ├── Agent
+│   ├── Harness
+│   ├── Guardrails
+│   └── Evals
+│
+└── Infrastructure
+    ├── Docker
+    ├── AWS
+    └── Kubernetes
+```
 
-✓ Linux Master 2<br>
-✓ SQLD<br>
-✓ ADsP<br>
-□ Docker<br>
-□ AWS<br>
-□ AI Agent Project
+</details>
 
-</td>
-<td width="500" valign="top">
-
-**TOOLS I USE**
-
-`Python` `Git` `Linux` `SQL` `PyTorch`
-
-</td>
-</tr>
-</table>
+**TOOLS I USE** &nbsp; `Python` `Git` `Linux` `SQL` `PyTorch`
