@@ -1,8 +1,8 @@
 <table>
 <tr>
-<td width="1000">
+<td width="1000" align="center">
 <br>
-<h1>JAEHO</h1>
+<h1>JAEHO CHOI</h1>
 <b>Building reliable AI systems,<br>one step at a time.</b>
 <br><br>
 <code>AI Systems</code> · <code>Cloud</code> · <code>Architecture</code>
@@ -26,7 +26,11 @@
 
 **PATH**
 
-Foundation → AI Application → AI Systems → Cloud Infrastructure → **Architecture**
+Foundation<br>
+↓ AI Application<br>
+↓ AI Systems<br>
+↓ Cloud Infrastructure<br>
+↓ **Architecture**
 
 </td>
 </tr>
@@ -67,6 +71,36 @@ Foundation → AI Application → AI Systems → Cloud Infrastructure → **Arch
 </table>
 
 <sub>🟢 Done · 🔵 Building · ⚪ Next · ⚫ Later</sub>
+
+<details>
+<summary><b>ROADMAP</b> — 전체 로드맵 펼치기</summary>
+
+```text
+2026
+│
+├── Foundation
+│   ├── CS
+│   ├── Network
+│   └── Linux
+│
+├── AI Application
+│   ├── LLM API
+│   ├── RAG
+│   └── Tool Calling
+│
+├── AI Systems
+│   ├── Agent
+│   ├── Harness
+│   ├── Guardrails
+│   └── Evals
+│
+└── Infrastructure
+    ├── Docker
+    ├── AWS
+    └── Kubernetes
+```
+
+</details>
 
 ### PROJECTS
 
