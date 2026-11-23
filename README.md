@@ -36,7 +36,7 @@
 
 | 프로젝트 | 내용 | 구분 |
 |:--|:--|:--|
-| [FOGO](https://github.com/ho0829-ui/PleosFOGO) | 현대·기아 Pleos 공모전 차량용 앱 — 방문 장소 기록, 수집품 지도판 | 팀 · Kotlin |
+| [FOGO](https://github.com/ho0829-ui/driveatlas-FOGO) | 현대·기아 Pleos 공모전 차량용 앱 — 방문 장소 기록, 수집품 지도판 | 팀 · Kotlin |
 | [장면 텍스트 VQA](https://github.com/ho0829-ui/ai-challenge-2) | SSAFY AI 챌린지 — 간판·메뉴판 4지선다, Public LB 0.974 | 팀 · Qwen3-VL |
 | [멀티모달 AI 프록시](https://github.com/ho0829-ui/ssafy-pjt/tree/master/pjt_07) | Django 화면과 FastAPI Proxy를 분리하고 Guardrail · 라우팅 · 에러 처리를 거쳐 텍스트 · 이미지 · TTS 제공 | 2인 · 팀장, Proxy 담당 |
 | [REST API 도서 커뮤니티](https://github.com/ho0829-ui/ssafy-pjt/tree/master/pjt_08) | DRF로 카테고리 · 도서 · 게시글 · 댓글 API를 설계하고 React 화면 연결 | 2인 · 도서 API · 화면 |
